@@ -1,0 +1,14 @@
+{
+    "name": "decentralized-ai-task-management",
+    "version": "1.0.0",
+    "description": "Decentralized AI-Powered Task Management Platform",
+    "scripts": {
+      "start": "node backend/server.js",
+      "client": "cd frontend && npm start",
+      "ml": "python ml/mlServer.py",
+      "blockchain": "truffle migrate --reset"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
