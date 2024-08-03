@@ -30,9 +30,6 @@ Welcome to the **Decentralized AI-Powered Task Management Platform**! 🚀 I’v
    - Front-end developed with React.js for a modern and responsive user experience.
    - Accessible on both desktop and mobile devices.
 
-7. **Documentation and Testing** 📝
-   - Detailed setup, deployment, and usage instructions.
-   - Unit and integration tests for key components to ensure reliability.
 
 ## 🚀 Getting Started
 
