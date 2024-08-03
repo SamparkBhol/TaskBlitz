@@ -69,4 +69,4 @@ In the real world, this platform is ideal for:
 4. Secure Record Keeping: Leverage blockchain technology to maintain a transparent and secure log of all task-related activities, ensuring data integrity and trust.
 
 # 🚀 Contribution
-I welcome contributions to this project! If you have suggestions, issues, or would like to submit a pull request, feel free to do so. Your feedback and contributions are greatly appreciated!
+I welcome contributions to this project! If you have suggestions, issues, or would like to submit a pull request, feel free to do so. Your feedback and contributions are greatly appreciated as it's a simple project your feedback will be well appreciated!
